@@ -1,0 +1,14 @@
+{
+  "name": "granite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "granite": "./bin/granite.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hedy",
+  "license": "ISC"
+}
