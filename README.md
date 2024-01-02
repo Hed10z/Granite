@@ -3,7 +3,7 @@
     <picture>
       <img src="./b1.png" height="128">
     </picture>
-    <h1 align="center">Granite Hash Code</h1>
+    <h1 align="center">Divide Hash Code</h1>
   </a>
 </p>
 
