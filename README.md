@@ -1,7 +1,7 @@
 ﻿<p align="center">
   <a href="">
     <picture>
-      <img src="./b2.png" height="128">
+      <img src="./b1.png" height="128">
     </picture>
     <h1 align="center">Granite Hash Code</h1>
   </a>
